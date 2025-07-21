@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+}
+
+.logo  {
+    display: flex;
+    font-size: 100px;
+}
+
+body {
+    font-size: 100px;
+}
